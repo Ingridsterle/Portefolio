@@ -17,7 +17,7 @@ Convaincue que chaque mission est une opportunité d’apprendre et de contribue
 📫 Contact : [ingrid.sterle@esme.fr]  
 🔗 [LinkedIn](https://linkedin.com/in/ingridsterle)  
 💻 [GitHub](https://github.com/Ingridsterle)
-| ![Aperçu de l’application](./images/IM3.png) |  
+  
 
 ---
 
