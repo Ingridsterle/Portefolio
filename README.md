@@ -1,7 +1,7 @@
 # Portfolio – Ingrid Sterle  
 Élève ingénieure en 5ᵉ année à l’ESME Sudria
 
-Elève ingénieure à l’ESME Sudria, spécialisée en **Intelligence Artificielle, Data Science et Machine Learning**.  
+Elève ingénieure à l’ESME Sudria.  
 Ce portfolio présente une sélection de projets réalisés en formation et en entreprise.
 ---
 
@@ -38,7 +38,7 @@ Je m'engage dans chaque mission avec enthousiasme et je ferais tout pour mener �
 - Suivi et gestion des expérimentations via MLflow.  
 - Déploiement d’un modèle interprétable et opérationnel.
 
-**Technologies :** Python, Scikit-learn, MLflow, Pandas, Streamlit  
+**Technologies :** Python, Scikit-learn, MLflow, Pandas.
 **Code source :** https://github.com/Ingridsterle/HeartDiseaseMLops
 
 ---
